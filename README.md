@@ -1,8 +1,15 @@
 # Slack Exporter
 
+## Description
 
-1. export history of a channel to spreadsheet
+export history of a channel to spreadsheet
+
+## Run locally
+
+```sh
+./build.sh
+./run.sh
+```
 
 
-user, timestamp(ts), text, reply_count, reply_timestamp, reply_user, reply_text
 
